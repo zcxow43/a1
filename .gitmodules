@@ -1,0 +1,3 @@
+[submodule "a1_sub"]
+	path = a1_sub
+	url = https://github.com/zcxow43/a1_sub.git
